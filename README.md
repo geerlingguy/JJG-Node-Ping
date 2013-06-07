@@ -1,4 +1,4 @@
-<img src="//raw.github.com/geerlingguy/JJG-Node-Ping/master/Resources/Ping-Logo.png" alt="Ping for Node.js Logo" />
+<img src="https://raw.github.com/geerlingguy/JJG-Node-Ping/master/Resources/Ping-Logo.png" alt="Ping for Node.js Logo" />
 
 # JJG Ping
 
