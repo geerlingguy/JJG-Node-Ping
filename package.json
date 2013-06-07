@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/geerlingguy/jjg-ping.git"
+    "url": "git://github.com/geerlingguy/JJG-Node-Ping.git"
   },
   "keywords": [
     "ping",
