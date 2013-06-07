@@ -1,11 +1,10 @@
-# JJG Node Ping
+<img src="//raw.github.com/geerlingguy/JJG-Node-Ping/master/Resources/Ping-Logo.png" alt="Ping for Node.js Logo" />
 
-by Jeff Geerling, originally created in 2013.
+# JJG Ping
 
-## Description
+JJG Ping is a simple ping wrapper for Node.js which returns the latency and result of a ping to a given address.
 
-JJG Node Ping is a simple ping wrapper for Node.js which returns the latency and
-result of a ping to a given address.
+Ping was created by [Jeff Geerling](http://www.lifeisaprayer.com/) of [Midwestern Mac, LLC](http://www.midwesternmac.com/) in 2013.
 
 ## Installation
 
@@ -32,9 +31,8 @@ Use NPM:
 
 ## Why jjg-ping?
 
-Because Node.js' package manager, npm, doesn't support namespacing (as of 2013),
-and ping, node-ping, and all the other namespaces I wanted were already taken.
+Because npm [doesn't support namespacing](https://npmjs.org/doc/faq.html#Why-no-namespaces), and ping, node-ping, and all the other namespaces I wanted were already taken.
 
 ## License
 
-JJG Node Ping is licensed under the MIT (Expat) License.
+JJG Ping is licensed under the MIT (Expat) license. See included LICENSE.md.
