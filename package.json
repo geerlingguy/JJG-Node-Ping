@@ -1,0 +1,25 @@
+{
+  "name": "jjg-ping",
+  "version": "1.0.0",
+  "description": "A simple ping wrapper for Node.js which returns the latency and result of a ping to a given address.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/geerlingguy/jjg-ping.git"
+  },
+  "keywords": [
+    "ping",
+    "system",
+    "server",
+    "host",
+    "utility",
+    "network",
+    "probe"
+  ],
+  "author": "Jeff Geerling",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
