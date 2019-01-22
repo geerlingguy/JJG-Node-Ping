@@ -1,6 +1,6 @@
 {
   "name": "jjg-ping",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple ping wrapper for Node.js which returns the latency and result of a ping to a given address.",
   "main": "index.js",
   "scripts": {
